@@ -34,7 +34,7 @@ const requireAll = requireContext => requireContext.keys().map(requireContext)
 requireAll(req)
 ```
 
-其中的 SvgIcon 长下面这样，传入 name 和 size 控制图标，保持用法和其他 UI 框架差不多：
+其中的 svg-icon.vue 长下面这样，传入 name 和 size 控制图标，保持用法和其他 UI 框架差不多：
 
 ``` javascript
 <template>
