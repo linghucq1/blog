@@ -1,12 +1,12 @@
 ### 先上效果图
 
-<!-- <img src="https://i.loli.net/2019/05/25/5ce92c15d216448301.gif"> -->
+<img src="https://i.loli.net/2019/05/25/5ce92c15d216448301.gif">
 
 [codepen: https://codepen.io/linghucq1/pen/zQjqZv?editors=1100](https://codepen.io/linghucq1/pen/zQjqZv?editors=1100)
 
 简单画一下原理
 
-<!-- <img src="https://i.loli.net/2019/05/25/5ce9300dba04455531.jpg"> -->
+<img src="https://i.loli.net/2019/05/25/5ce9300dba04455531.jpg">
 
 图中的波浪线 L 就是我们要的，它是沿着上下两排相切圆的切线画出来的，只要画出 A 段然后重复，就可以得到我们想要的波浪效果。
 
@@ -23,7 +23,7 @@
   margin-top: 100px;
 }
 ```
-<!-- <img src="https://i.loli.net/2019/05/25/5ce9355d98df344170.png"> -->
+<img src="https://i.loli.net/2019/05/25/5ce9355d98df344170.png">
 
 得到一个蓝色的长方形，现在我们在它的上边缘画一个圆。
 
